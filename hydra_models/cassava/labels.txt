@@ -1,0 +1,5 @@
+0 Cassava Bacterial Blight
+1 Cassava Treak Disease
+2 Cassava Green Mottle 
+3 Cassava Healthy
+4 Cassava Mosaic Disease

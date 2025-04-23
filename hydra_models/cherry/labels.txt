@@ -1,0 +1,2 @@
+0 Cherry Healthy
+1 Cherry Mildew
